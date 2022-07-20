@@ -1,0 +1,1 @@
+pip install chumpy tqdm torchgeometry trimesh scipy smplx scikit-image opencv-python pycocotools
