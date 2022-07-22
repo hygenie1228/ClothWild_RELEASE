@@ -1,6 +1,6 @@
 # **3D Clothed Human Reconstruction in the Wild (ClothWild codes)**
 
-> [**3D Clothed Human Reconstruction in the Wild**](),            
+> [**3D Clothed Human Reconstruction in the Wild**](https://arxiv.org/abs/2207.10053),            
 > Gyeongsik Moon, 
 > Hyeongjin Nam,
 > Takaaki Shiratori,
@@ -61,7 +61,7 @@ You can download the checkpoint trained on MSCOCO+DeepFashion2 from [here](https
 
 
 ## Result
-Refer to the [paper]( )'s main manuscript and supplementary material for diverse qualitative results!
+Refer to the [paper](https://arxiv.org/abs/2207.10053)'s main manuscript and supplementary material for diverse qualitative results!
 
 ### Chamfer Distance (CD)
 
