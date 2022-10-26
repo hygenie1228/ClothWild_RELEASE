@@ -47,7 +47,7 @@ ${ROOT}
 ```
 * `base_data/human_model_files` contains `smpl` 3D model files. Download the files from [[smpl](https://smpl.is.tue.mpg.de/)].
 * `base_data/smplicit` contains 3D cloth generative model (`SMPLicit`) files. Download the files from [[smplicit](https://github.com/enriccorona/SMPLicit)].
-* `preprocessed_data` is required for training and testing stages. Download it from [[preprocessed_data](https://drive.google.com/file/d/1N6hPKMDgk1SRoKJDx5cGgoSlZEhKTT-4/view?usp=sharing)].
+* `preprocessed_data` is required for training and testing stages. Download it from [[preprocessed_data](https://drive.google.com/file/d/1m5AfZt2qx90DkbXACuDK8D1tWl7LuPKe/view?usp=sharing)].
 
 
 ## Dataset
@@ -75,9 +75,9 @@ ${ROOT}
 |   |   |   |-- sequenceFiles
 |   |   |   |-- 3DPW_test.json
 ```  
-* Download DeepFashion2 parsed data [[data](https://github.com/switchablenorms/DeepFashion2)] [[annot](https://drive.google.com/drive/folders/1HKv_wt3F23Rjnig7TwaOxHWTl5sGrdbC?usp=sharing)]
-* Download MSCOCO data, parses (LIP dataset), and densepose [[data](https://github.com/jin-s13/COCO-WholeBody)] [[parses](https://drive.google.com/file/d/1I7-p0w6GSGOryBkFA348CeHSmcJS6ro4/view?usp=sharing)] [[densepose](https://drive.google.com/drive/folders/1HKv_wt3F23Rjnig7TwaOxHWTl5sGrdbC?usp=sharing)]
-* Download 3DPW parsed data [[data](https://virtualhumans.mpi-inf.mpg.de/3DPW/)] [[annot]](https://drive.google.com/drive/folders/1HKv_wt3F23Rjnig7TwaOxHWTl5sGrdbC?usp=sharing)
+* Download DeepFashion2 parsed data [[data](https://github.com/switchablenorms/DeepFashion2)] [[annot](https://drive.google.com/drive/folders/1P2AgxZZsq21fcGnP_RNuvaEOrye1SBkj?usp=sharing)]
+* Download MSCOCO data, parses (LIP dataset), and densepose [[data](https://github.com/jin-s13/COCO-WholeBody)] [[parses](https://drive.google.com/file/d/1i2-qbNPTtn2kmxko--riEJjBehZnvumw/view?usp=sharing)] [[densepose](https://drive.google.com/drive/folders/1P2AgxZZsq21fcGnP_RNuvaEOrye1SBkj?usp=sharing)]
+* Download 3DPW parsed data [[data](https://virtualhumans.mpi-inf.mpg.de/3DPW/)] [[annot]](https://drive.google.com/drive/folders/1P2AgxZZsq21fcGnP_RNuvaEOrye1SBkj?usp=sharing)
 * All annotation files follow [MSCOCO format](http://cocodataset.org/#format-data). If you want to add your own dataset, you have to convert it to [MSCOCO format](http://cocodataset.org/#format-data).  
 
 

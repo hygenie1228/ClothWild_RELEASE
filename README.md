@@ -21,7 +21,7 @@
 
 
 ## Quick demo
-* Download the pre-trained weight from [here](https://drive.google.com/drive/folders/1IzIlnu8sHtnuNHGWnghrFkf8bbZyTOHq?usp=sharing) and place it in `demo` folder.
+* Download the pre-trained weight from [here](https://drive.google.com/file/d/1-gafc-6V1ma7L5NS1JphzbhTdO_pQFuL/view?usp=sharing) and place it in `demo` folder.
 * Prepare `base_data` folder following below [`Directory`](./assets/directory.md/#required-data) part.
 * Prepare `input.png` and edit its `bbox` of `demo/demo.py`.
 * Prepare SMPL parameter, as `pose2pose_result.json`. You can get the SMPL parameter by running the off-the-shelf method [[code](https://github.com/mks0601/Hand4Whole_RELEASE/tree/Pose2Pose)].
@@ -57,7 +57,7 @@ cd ${ROOT}/main
 python test.py --gpu 0 --test_epoch 7 --type bcc
 ``` 
 
-You can download the checkpoint trained on MSCOCO+DeepFashion2 from [here](https://drive.google.com/drive/folders/1IzIlnu8sHtnuNHGWnghrFkf8bbZyTOHq?usp=sharing).
+You can download the checkpoint trained on MSCOCO+DeepFashion2 from [here](https://drive.google.com/file/d/1-gafc-6V1ma7L5NS1JphzbhTdO_pQFuL/view?usp=sharing).
 
 
 ## Result
