@@ -1,11 +1,11 @@
 # **3D Clothed Human Reconstruction in the Wild (ClothWild codes)**
 
 > [**3D Clothed Human Reconstruction in the Wild**](https://arxiv.org/abs/2207.10053),            
-> Gyeongsik Moon, 
-> Hyeongjin Nam,
+> Gyeongsik Moon*, 
+> Hyeongjin Nam*,
 > Takaaki Shiratori,
-> Kyoung Mu Lee,        
-> *European Conference on Computer Vision (ECCV), 2022*
+> Kyoung Mu Lee (* equal contribution)        
+> *European Conference on Computer Vision (ECCV), 2022* 
 
 <p align="center">  
 <img src="assets/front_figure.png">  
